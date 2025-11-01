@@ -6,7 +6,7 @@ import java.net.Socket;
 
 import static util.MyLogger.log;
 
-public class ServerV4 {
+public class ServerV5 {
 
     private static final int PORT = 12345;
 
